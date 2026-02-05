@@ -1,0 +1,10 @@
+Koš 0, (počet: 1): (Pepik: 28)
+Koš 1, (počet: 0): 
+Koš 2, (počet: 2): (Honza: 16),(Rozárka: 98)
+Koš 3, (počet: 0): 
+Koš 4, (počet: 2): (Jenda: 47),(Jeremiáš: 56)
+Koš 5, (počet: 3): (Amálie: 45),(Kleofáš: 99),(Květoslava: 4)
+Koš 6, (počet: 2): (Vašek: 66),(Lucie: 54)
+Koš 7, (počet: 1): (Martin: 67)
+Koš 8, (počet: 1): (Dušan: 78)
+Koš 9, (počet: 1): (Ezechiáš: 41)
